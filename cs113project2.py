@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 26 20:17:35 2022
-
-@author: kcruz29
-"""
 
 def list_all_links(page):
     
